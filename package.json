@@ -1,0 +1,1 @@
+{"private":true,"description":"Synthetic checker metadata; no app code is executed","dependencies":{"next":"16.0.0"},"scripts":{"dev":"next dev","build":"next build"}}
