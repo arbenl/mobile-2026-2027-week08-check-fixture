@@ -1,1 +1,1 @@
-{"private":true,"description":"Synthetic checker metadata; no app code is executed","dependencies":{"next":"16.0.0"},"scripts":{"dev":"next dev","build":"next build"}}
+{"private":true,"description":"Synthetic staff app for browser-test validation, not student work","dependencies":{"next":"16.4.5","react":"19.2.0","react-dom":"19.2.0"},"scripts":{"dev":"next dev","build":"next build"}}
